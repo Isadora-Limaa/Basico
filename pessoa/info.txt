@@ -1,5 +1,3 @@
-pessoa
-cabelo loiro
-pé
-corpo
-cabeça
+Cor do cabelo: azul, rosa, roxo, amarelo
+unha: laranja
+Cor da roupa: preto, pq é básico

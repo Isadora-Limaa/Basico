@@ -1,7 +1,3 @@
-Rodas
-banco
-IFieufiuefu
-teesterfewyfueuif
-
-
-TESTEEEEEEojfrijgu
+carro: rosa
+rodas: azul e roxo
+Janela
